@@ -1,7 +1,8 @@
 ---
-output:
-  word_document: default
-  html_document: default
+title: "BV20_Families"
+author: "Dominique Desmarattes"
+date: "written July 9, 2021; updated July 22, 2021"
+output: github_document
 ---
 #BV20_Families Data Analysis
 
